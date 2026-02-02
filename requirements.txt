@@ -1,0 +1,7 @@
+streamlit==1.52.2
+pandas==2.3.3
+plotly==6.5.1
+langchain==1.2.3
+langchain-openai==1.1.7
+openai==1.77.0
+python-dotenv==1.0.1
