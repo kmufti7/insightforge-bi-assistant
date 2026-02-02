@@ -11,6 +11,17 @@ Production-ready RAG system for business intelligence using LangChain, OpenAI, a
 
 InsightForge enables natural language conversations with business data using Retrieval-Augmented Generation (RAG). Built for small-to-medium enterprises that need instant business insights without dedicated data science teams.
 
+### Screenshots
+
+**Chat Interface** — Natural language queries with accurate responses
+![Chat Demo](screenshots/chat_demo.png)
+
+**Interactive Dashboard** — 6 visualization types for business insights
+![Dashboard](screenshots/dashboard.png)
+
+**Model Evaluation** — 100% accuracy on test queries
+![Evaluation](screenshots/evaluation.png)
+
 ### Key Features
 
 - **Natural Language Interface** — Ask questions in plain English
